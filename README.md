@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm CVS CHARAN</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FFA500&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+CVS+CHARAN;A+Full-Stack+Developer;Passionate+about+Coding+%26+Learning">
+</h1>
+
 <h3 align="center">A Passionate Full Stack Developer from India</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cvscharan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=cvscharan&label=Profile%20views&color=0e75b6&style=flat" alt="cvscharan" />
 </p>
 
 <p align="center">
-  <a href="https://github-profile-trophy.vercel.app/?username=cvscharan">
-    <img src="https://github-profile-trophy.vercel.app/?username=cvscharan&margin-w=15&margin-h=15&theme=gruvbox" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=cvscharan&theme=radical&margin-w=15&margin-h=15" alt="GitHub Trophy" />
 </p>
 
 ---
