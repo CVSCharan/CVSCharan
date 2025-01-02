@@ -15,7 +15,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🌱 I’m currently learning **Unity Game Development**.  
+- 🌱 I’m currently learning **Mobile Apps Development**.  
 - 💬 Ask me about **Web Development, React, and Data Analytics**.  
 - 📫 How to reach me: **charan.cvs@gmail.com**.  
 - ⚡ Fun fact: I’m always excited to learn and implement cutting-edge technologies!  
