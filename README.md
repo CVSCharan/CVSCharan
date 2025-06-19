@@ -1,4 +1,4 @@
-# Hi 👋, I'm CVS CHARAN
+<h1 align="center">Hi 👋, I'm CVS CHARAN</h1>
 
 <h3 align="center">Full-Stack Developer | Data Analytics Enthusiast | Problem Solver</h3>
 
