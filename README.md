@@ -143,16 +143,6 @@ I'm a passionate Full-Stack Developer from India with a keen interest in buildin
 
 ---
 
-## 📚 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable React Applications with TypeScript](https://dev.to/cvscharan/building-scalable-react-typescript)
-- [Data Visualization Best Practices with Python](https://dev.to/cvscharan/data-viz-python)
-- [Deploying Full-Stack Apps to Azure](https://dev.to/cvscharan/azure-deployment)
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ## 🤝 Let's Connect
 
 <p align="center">
